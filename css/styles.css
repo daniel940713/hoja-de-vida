@@ -49,3 +49,8 @@ h1 {
     border-radius:150px;
     margin-left: 80px;
 }
+
+p {
+    color: black;
+    font-size: 25px;
+}
